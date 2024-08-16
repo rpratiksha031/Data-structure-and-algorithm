@@ -42,14 +42,8 @@ class Heap{
         }else{
             break;
         }
-
             }
-           
-
     }
-
-
-
     int deleteFromHeap(){
      int ans=arr[1];
 
