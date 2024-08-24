@@ -5,6 +5,7 @@ int main()
 {
 
     int n;
+    cout<<"enter your no :";
     cin>>n;
 
       for(int i=0; i<n; i++){
