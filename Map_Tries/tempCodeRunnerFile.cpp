@@ -1,1 +1,1 @@
-cout<<i;
+  //  cout<<mapping[str];
